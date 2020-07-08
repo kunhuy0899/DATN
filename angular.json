@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DATN"
+    }
+  },
+  "defaultProject": "DATN",
+  "cli": {
+    "analytics": "3a11d2f3-ab98-4760-9a35-157676c4005d"
+  }
 }
